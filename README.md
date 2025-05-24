@@ -185,35 +185,4 @@ Object_YOLOv8/
 └── yolov8n.pt        # Modelo de IA (se descarga auto.)
 ```
 
-## 🤝 Cómo Contribuir
-
-1. Haz un Fork del proyecto
-2. Crea una rama para tu función: `git checkout -b nueva-funcion`
-3. Haz commit de tus cambios: `git commit -m 'Añadir nueva función'`
-4. Sube los cambios: `git push origin nueva-funcion`
-5. Abre un Pull Request
-
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para detalles.
-
-## 👥 Equipo
-
-- **Desarrollador Principal**: Yonsn76
-  - GitHub: [@Yonsn76](https://github.com/Yonsn76)
-
-## 📞 Soporte
-
-- Abre un issue en GitHub para reportar problemas
-- Revisa la documentación antes de preguntar
-- Usa la sección de discusiones para preguntas generales
-
-## 🌟 Agradecimientos
-
-- Equipo de YOLOv8 por el modelo de detección
-- Comunidad de PyQt por el framework
-- Todos los contribuidores del proyecto
-
----
-
 Desarrollado con ❤️ por Yonsn76
